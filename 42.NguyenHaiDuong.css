@@ -705,10 +705,6 @@ header li:hover > ul {
   margin-left: 7%;
   display: flex;
 }
-p {
-  color: #978e7b;
-  letter-spacing: 0.5px;
-}
 .text_last img {
   margin-bottom: 20px;
 }
@@ -762,4 +758,8 @@ footer {
 }
 .by {
   margin-top: 20px;
+}
+.text_last p {
+  color: #a6a688;
+  letter-spacing: 0.5px;
 }
